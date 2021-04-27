@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="select_a_distance">Select a Distance:</string>
+    <string name="next">Next</string>
+    <string name="App">App</string>
+    <string name="help">Help</string>
+    <string name="helpMessage">Help I am a tiny man trapped in the fake phone please free me </string>
+    <string name="back">Back</string>
+
+
+    <string-array name="events_array">
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
